@@ -1,0 +1,17 @@
+Requisitos
+
+. Registra visitantes.
+. Visualizar os visitantes do dia
+. Consultar cadastro do visitante
+
+Tecnologias
+
+. banco de dados sqllite
+
+. net framework 4.8
+
+
+Instalação
+
+. Instale o net framework 4.7 ou superior ( se for windows 11 já vem instalado)
+. Caso seja necessario instale o sqlite borwser ( nos teste que fiz não foi necessario)

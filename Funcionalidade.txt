@@ -1,0 +1,14 @@
+Funcionabilidade
+
+. Para realizar o cadastro de visitante e simples
+  basta clicar no botão cadastro no canto esquerdo, um tela de cadastro ira aparecer 
+  preencha os dados solicitados e clique no botão cadastra na cor azul.
+
+. Após realização do cadastro automaticamente vai para tela de registro do dia.
+
+. Para realizar um consulta basta clica no canto esquerdo no botão consultar, uma tela de consulta ira aparecer
+  seleciona o tipo de filtro entre nome e cpf em ambos os casos após selecionar o tipo de filtro e só digitar os dados, na lista vai aparecer o resultado da pesquisa. 
+(obs: digite todos os dados se for cpf digite os numero completo ate sobra apena um resultado o mesmo com nome).
+
+. Nesta mesma tela você consegui registra a nova visita deste visitante já cadastrado.
+ 
